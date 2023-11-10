@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [Ebrand SRL - Full stack developer](ebranditalia.com)
+- 🔭 I’m currently working on [Digitouch Solution (https://www.gruppodigitouch.it/) => Senior Magento Developer]
 
 - 🌱 I’m currently learning **Python (django, fast api)**
 
@@ -16,10 +16,6 @@
 - 💬 Ask me about **react, node, js**
 
 - 📫 How to reach me **andreamastracchio@live.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
