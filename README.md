@@ -13,17 +13,17 @@
 
 ### 🧑‍💻 About me
 
-Full-stack developer con la testa tra e-commerce, infrastruttura e AI. Ho cominciato
-dall'hardware — CPU, GPU, computer da assemblare — poi sono passato al lato logico:
-la programmazione, prima da autodidatta e poi all'università, lavorando e studiando insieme.
+Full-stack developer with my head between e-commerce, infrastructure and AI.
+I started from hardware — CPUs, GPUs, building PCs — then moved to the logical side:
+programming, first self-taught and later at university, working and studying at the same time.
 
-Oggi costruisco e-commerce su larga scala (Magento 2, Hyvä, integrazioni ERP),
-gestisco infrastrutture Kubernetes e porto l'AI dentro i processi di sviluppo.
-Fuori dal codice: conservatorio di musica a Pesaro alle spalle (suono più strumenti,
-colleziono vinili), anime e manga, e le moto — Francia e Spagna in giro fatte,
-Capo Nord nel mirino. 🏍️
+Today I build large-scale e-commerce (Magento 2, Hyvä, ERP integrations),
+run Kubernetes infrastructures and bring AI into development workflows.
+Outside code: music conservatory background in Pesaro (I play several instruments,
+collect vinyl records), anime & manga, and motorcycles — tours of France and Spain done,
+North Cape next. 🏍️
 
-**🎓 Education:** Laurea in Ingegneria Informatica · Diploma in Ragioneria
+**🎓 Education:** B.Sc. in Computer Engineering · Accounting Diploma
 
 ---
 
@@ -80,11 +80,9 @@ Capo Nord nel mirino. 🏍️
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndreaMastracchio&theme=tokyonight" alt="GitHub stats" height="150"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AndreaMastracchio&theme=tokyonight" alt="Productive time" height="150"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndreaMastracchio&theme=tokyonight" alt="Repos per language" height="180"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?user=AndreaMastracchio&theme=tokyo-night&hide_border=true" alt="Activity graph" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?user=AndreaMastracchio&theme=tokyo-night&hide_border=true" alt="Commit activity graph" height="180"/>
 </p>
 
 ---
