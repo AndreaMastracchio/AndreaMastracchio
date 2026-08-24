@@ -11,6 +11,22 @@
 
 ---
 
+### 🧑‍💻 About me
+
+Full-stack developer con la testa tra e-commerce, infrastruttura e AI. Ho cominciato
+dall'hardware — CPU, GPU, computer da assemblare — poi sono passato al lato logico:
+la programmazione, prima da autodidatta e poi all'università, lavorando e studiando insieme.
+
+Oggi costruisco e-commerce su larga scala (Magento 2, Hyvä, integrazioni ERP),
+gestisco infrastrutture Kubernetes e porto l'AI dentro i processi di sviluppo.
+Fuori dal codice: conservatorio di musica a Pesaro alle spalle (suono più strumenti,
+colleziono vinili), anime e manga, e le moto — Francia e Spagna in giro fatte,
+Capo Nord nel mirino. 🏍️
+
+**🎓 Education:** Laurea in Ingegneria Informatica · Diploma in Ragioneria
+
+---
+
 ### 🛠 What I do
 
 - 🛒 **E-commerce** — Magento 2 & Hyvä themes, custom modules, performance tuning
@@ -63,8 +79,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AndreaMastracchio&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreaMastracchio&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndreaMastracchio&theme=tokyonight" alt="GitHub stats" height="150"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AndreaMastracchio&theme=tokyonight" alt="Productive time" height="150"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AndreaMastracchio&theme=tokyonight" alt="Repos per language" height="180"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?user=AndreaMastracchio&theme=tokyo-night&hide_border=true" alt="Activity graph" height="180"/>
 </p>
 
 ---
