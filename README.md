@@ -14,7 +14,7 @@
 ### 🧑‍💻 About me
 
 Full-stack developer with my head between e-commerce, infrastructure and AI.
-I started from hardware — CPUs, GPUs, building PCs — then moved to the logical side:
+I started from hardware (CPUs, GPUs, building PCs) then moved to the logical side:
 programming, first self-taught and later at university, working and studying at the same time.
 
 Today I build large-scale e-commerce (Magento 2, Hyvä, ERP integrations),
