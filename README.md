@@ -81,9 +81,6 @@ North Cape next. 🏍️
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AndreaMastracchio&theme=tokyonight" alt="GitHub stats" height="150"/>
 </p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?user=AndreaMastracchio&theme=tokyo-night&hide_border=true" alt="Commit activity graph" height="180"/>
-</p>
 
 ---
 
