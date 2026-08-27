@@ -70,7 +70,6 @@ North Cape next. 🏍️
 | Project | About |
 |---|---|
 | [**Roadmap-Kubernetes**](https://github.com/AndreaMastracchio/Roadmap-Kubernetes) | AI-powered tool for studying Kubernetes |
-| [**Roadmap-Laravel**](https://github.com/AndreaMastracchio/Roadmap-Laravel) | Laravel learning roadmap |
 | [**andrea-portfolio**](https://github.com/AndreaMastracchio/andrea-portfolio) | Personal portfolio site |
 | [**single-page-application**](https://github.com/AndreaMastracchio/single-page-application) | Next.js single page application |
 
